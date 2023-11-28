@@ -7,20 +7,20 @@ import sys
 
 print("Monster = ~")
 print("rock= # ")
-print("player = ♂")
+print("player = 0")
 print("treasure = $")
 print("heals =  ♥ ")
 
 
 height = 10
 width = 15
-player = chr(11)
+player = 0
 treasure = '$'
 monster = '~'
 rock = "#"
 
 no_of_monsters = 5
-no_of_rocks = 5
+no_of_rocks = 50
 no_of_health = 3
 score = 0
 health_level = 100
